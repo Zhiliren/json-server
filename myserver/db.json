@@ -1,0 +1,31 @@
+{
+    "fruits": [{
+            "id": 1,
+            "name": "apple",
+            "price": 33
+        },
+        {
+            "id": 2,
+            "name": "orange",
+            "price": 8.88
+        },
+        {
+            "id": 3,
+            "name": "Banana",
+            "price": 4.5
+        },
+        {
+            "id": 4,
+            "name": "watermelon",
+            "price": 12
+        }
+    ],
+    "users": [{
+        "name": {
+            "useranme": "admin",
+            "nickname": "dachui"
+        },
+        "pwd": "123456"
+    }]
+
+}
